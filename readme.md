@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=sexy한자기소개&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=sexy한_자기소개&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
 #  이름 
 ###  'sexy' 김진후 
 ![Alt text](https://ts2.mm.bing.net/th?q=%EC%9C%A0%ED%98%B9%20%EC%A7%A4)
